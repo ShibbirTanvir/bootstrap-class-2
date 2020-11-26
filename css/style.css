@@ -1,0 +1,11 @@
+.box{
+	min-height: 50px;
+	background-color: green;
+	margin-bottom: 20px;
+}
+
+.text{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+}
